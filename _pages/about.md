@@ -2,25 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: >
+  <a href='#'>Data Scientist & Bioinformatics Specialist</a>.<br/>
+  Philadelphia, PA 19104.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Welcome! I am a Junior Biomedical Engineering major at Drexel University in the
+BS/MS program with concentrations in Bioinformatics, Imaging and Neuroengineering.
+I just completed a year working as a Bioinformatics Scientist co-op in the
+Non-Clinical Safety group under the *In Vitro In Vivo Translation* department
+at GSK.I’m interested in the intersection of data science and large-scale
+multi-omics data analysis.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I am also completing the Deep Learning Specialization on Coursera; I hope to apply my knowledge of deep learning towards developing tools for Spatial Transcriptomics and High-Content Imaging data analysis.
+
+I am currently pursuing a combined BS/MS degree in Biomedical Engineering at Drexel. Some of my academic work from previous internships and research projects have been published.
+
+I am also the Vice President of Drexel Computational Design where I have worked on various projects in collaboration with my peers.
