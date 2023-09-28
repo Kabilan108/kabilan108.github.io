@@ -2,10 +2,12 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: >
+  A curated portfolio of projects reflecting my technical expertise and 
+  relentless curiosity in ML/AI, Data Science, and Bioinformatics.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [bioinformatics]
 horizontal: false
 ---
 
