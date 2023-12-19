@@ -18,16 +18,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+**Hello there!**
 
-Welcome! I am a Junior Biomedical Engineering major at Drexel University in the
-BS/MS program with concentrations in Bioinformatics, Imaging and Neuroengineering.
-I just completed a year working as a Bioinformatics Scientist co-op in the
-Non-Clinical Safety group under the *In Vitro In Vivo Translation* department
-at GSK.I’m interested in the intersection of data science and large-scale
-multi-omics data analysis.
+I'm a Senior at Drexel University, completing the accelerated BS/MS in
+Biomedical Engineering program with specializations in Bioinformatics, Neuroengineering,
+and Biomedical Imaging. 
 
-Currently, I am also completing the Deep Learning Specialization on Coursera; I hope to apply my knowledge of deep learning towards developing tools for Spatial Transcriptomics and High-Content Imaging data analysis.
+Right now, I'm working on exploring Retrieval Augmented Generation (**RAG**) and 
+**Agent** systems leveraging large language models (**LLMs**). In particular, I'm 
+exploring their applications in developing systems that leverage multimodal data to 
+aid in providing **clincal decision support**.
 
-I am currently pursuing a combined BS/MS degree in Biomedical Engineering at Drexel. Some of my academic work from previous internships and research projects have been published.
+I recently completed my final co-op working as a Data Scientist in the Non-Clinical
+Safety group at GSK where I worked on developing machine learning pipelines for
+analyzing biomedical imaging and spatial transcriptomics data.
 
-I am also the Vice President of Drexel Computational Design where I have worked on various projects in collaboration with my peers.
